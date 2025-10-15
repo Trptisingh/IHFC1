@@ -1,0 +1,99 @@
+p{
+    background-color: lightblue;
+}
+
+.block{
+    display: block;
+    background-color: lightgreen;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.inline{
+    display: inline;
+    background-color: lightcoral;
+    padding: 5px;
+    margin: 5px;
+}
+.box-model{
+    border: 5px solid black;
+    padding: 20px;
+    margin: 5px;
+    width: 200px;
+    background-color: lightyellow;
+}
+
+.flex-container{
+    display: flex;
+    background-color: lightgray;
+    padding: 10px;
+}
+.flex-item{
+    background-color: rgb(11, 174, 229);
+    padding: 10px;
+    margin: 5px;
+    flex: 1;
+}
+.flex-container-properties{
+    display: flex;
+    justify-content: space-around;
+    background-color: lightpink;
+    padding: 10px;
+    flex-direction: row;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    background-color: lightcyan;
+    padding: 10px;
+}
+.grid-item{
+    background-color: rgb(255, 153, 0);
+    padding: 20px;
+    text-align: center;
+}
+.grid-container-properties{
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-auto-rows: 100px;
+    gap: 10px;
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+    justify-items: center;
+    align-items: center;
+}
+.grid-item-properties{
+   border: 2px solid black;
+   border-radius: 10px;
+    background-color: rgb(153, 0, 255);
+    padding: 20px;
+}
+.responsive-grid-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 10px;
+    background-color: lightseagreen;
+    padding: 10px;
+}
+.responsive-grid-item{
+    background-color: rgb(0, 204, 102);
+    padding: 20px;
+    text-align: center;
+}
+@media (max-width: 600px) {
+    .responsive-grid-container {
+        grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+    }
+}
+
+@media (min-width: 601px) and (max-width: 900px) {
+    .responsive-grid-container {
+        grid-template-columns: repeat(auto-fit, minmax(75px, 1fr));
+    }
+}
+@media (min-width: 901px) {
+    .responsive-grid-container {
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    }
+}
