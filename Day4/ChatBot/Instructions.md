@@ -21,14 +21,6 @@ Here’s the updated **Badges section** for your README:
 
 ---
 
-✅ Each badge is now **clickable** and points to the **official website/documentation** of the technology.
-
-If you want, I can **replace your current Badges section** in the README with this and **also reformat the README** so all badges are aligned neatly at the top or bottom for a **clean, professional look**.
-
-Do you want me to do that next?
-
----
-
 ## 💡 Project Overview
 
 This project demonstrates a **web-based chatbot** using **OpenRouter AI**.
