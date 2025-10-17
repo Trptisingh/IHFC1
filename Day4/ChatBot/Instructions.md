@@ -1,12 +1,6 @@
 # 🚀 OpenRouter AI Chatbot
 
 A **smart AI chatbot** powered by **OpenRouter AI**, enabling **real-time conversations** between users and AI.
-
-**Built With:** HTML, CSS, JavaScript, Node.js, Express
-Perfect! I’ll provide a **professional version of your Badges section** with **clickable links** for all the technologies used so anyone can navigate to the official pages.
-
-Here’s the updated **Badges section** for your README:
-
 ---
 
 ## 🏷 Technologies Used
@@ -149,7 +143,7 @@ node server.js
 
 ## 📌 Summary
 
-This project provides a **professional, production-ready AI chatbot** using **OpenRouter AI**, with:
+This project provides a **production-ready AI chatbot** using **OpenRouter AI**, with:
 
 * Clean architecture for frontend-backend communication
 * Secure API integration
