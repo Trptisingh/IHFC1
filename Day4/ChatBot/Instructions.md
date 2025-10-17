@@ -82,24 +82,7 @@ This project is perfect for learning:
 ### **Frontend**
 
 1. Open the HTML file in a browser.
-2. Click the **Get Data from Backend** button to interact with the chatbot.
-
----
-
-## **Adding Images in this README**
-
-You can add images in this `instruction.md` to explain the project better:
-
-```markdown
-![Chatbot UI Screenshot](images/chatbot.png)
-```
-
-* **`images/chatbot.png`** should be in your repository folder.
-* Or use a web URL directly:
-
-```markdown
-![OpenRouter Logo](https://openrouter.ai/logo.png)
-```
+2. Click the **Send** button to interact with the chatbot.
 
 ---
 
