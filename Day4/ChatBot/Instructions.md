@@ -1,7 +1,5 @@
 # 🌟 OpenRouter AI Chatbot 🤖✨
 
-![Chatbot Banner](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
-
 A **smart AI chatbot** powered by **OpenRouter AI**, enabling **real-time conversations** between users and AI.
 
 Built with: **HTML, CSS, JavaScript, Node.js, Express**.
@@ -43,8 +41,6 @@ Welcome to your AI chatbot! 🚀
   * **Send button** 💌
   * **Chat display area** 💡
 
-![Frontend Demo](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
-
 ### **2️⃣ Backend**
 
 * Built with **Node.js & Express**
@@ -65,8 +61,6 @@ CORS (Cross-Origin Resource Sharing) allows the frontend (`localhost:5500`) to t
   3. Generate a new key 🔑
   4. Add it to your backend
 
-![API Key](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
-
 ---
 
 ## 🚀 How the Chatbot Works
@@ -77,8 +71,6 @@ CORS (Cross-Origin Resource Sharing) allows the frontend (`localhost:5500`) to t
 4. AI generates response ⚡
 5. Backend sends response to frontend 💡
 6. Response is displayed in chat area
-
-![Chatbot Interaction](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
 
 ✨ Real-time communication for a **fluid chat experience**!
 
@@ -125,17 +117,6 @@ node server.js
 * **Click Send** 💌
 * **Receive AI response instantly** ⚡
 
-![Demo GIF](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
-
----
-
-## 📌 Summary
-
-You’ve built a **fully functional AI chatbot** powered by **OpenRouter AI**.
-Connects a **friendly frontend** to a **backend server**, sending messages to an AI model and displaying responses **in real-time**.
-
-Perfect for **learning AI integration** in web applications!
-
 ---
 
 ## ⭐ Technologies Used
@@ -155,10 +136,3 @@ Perfect for **learning AI integration** in web applications!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ---
-
-✅ This README now has:
-
-* GIFs for animation
-* Emojis for visual guidance
-* Clean sections & formatting
-* Clear run instructions
