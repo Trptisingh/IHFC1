@@ -208,5 +208,3 @@ Click the URL → your weather app is now live 🌤
 ✅ Real-world hosting workflow
 
 ---
-
-Do you want me to do that?
