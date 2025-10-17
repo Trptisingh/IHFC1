@@ -34,10 +34,10 @@ By completing this project, you’ll learn:
 
 | Purpose  | Technology                        |
 | -------- | --------------------------------- |
-| Frontend | HTML5, CSS3, JavaScript (Vanilla) |
+| Frontend | HTML5, CSS3, JavaScript           |
 | API      | OpenWeatherMap API                |
 | Hosting  | Firebase Hosting                  |
-| Tools    | Node.js, npm, Firebase CLI        |
+| Tools    | Node.js, npm, Firebase            |
 
 ---
 
