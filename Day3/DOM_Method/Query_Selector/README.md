@@ -1,3 +1,4 @@
+
 # 🚗 Highlight Driver Seat — JavaScript + CSS Example
 
 This project demonstrates how to **select and style HTML elements dynamically** using **JavaScript** and **CSS**.
@@ -5,6 +6,7 @@ This project demonstrates how to **select and style HTML elements dynamically** 
 ---
 
 ## 🗂️ Files
+
 | File | Description |
 |------|--------------|
 | **index.html** | The main HTML page that links CSS and JavaScript |
@@ -15,6 +17,7 @@ This project demonstrates how to **select and style HTML elements dynamically** 
 ---
 
 ## 🧠 What You’ll Learn
+
 - Selecting HTML elements using `querySelector()`
 - Changing styles dynamically with JavaScript
 - Updating text and font size
@@ -23,8 +26,10 @@ This project demonstrates how to **select and style HTML elements dynamically** 
 ---
 
 ## ⚙️ How It Works
+
 1. The HTML contains a `div` element with the class `.driverSeat`.
 2. JavaScript selects it using:
+
    ```javascript
    const driverSeat = document.querySelector(".driverSeat");
 ````
@@ -51,7 +56,7 @@ When you open the page:
 
 * The “Driver Seat” box is highlighted in **light blue**.
 * Text becomes larger and displays **"Driver Seat!"**
-* On hover, the box **smoothly enlarges** using CSS transitions.
+* On hover, the box **smoothly enlarges** with a shadow effect.
 
 ---
 
@@ -60,10 +65,20 @@ When you open the page:
 | Concept           | Description                                       |
 | ----------------- | ------------------------------------------------- |
 | `querySelector()` | Selects the first element matching a CSS selector |
-| `.style`          | Changes CSS styles dynamically with JavaScript    |
+| `.style`          | Dynamically changes CSS styles via JavaScript     |
 | `.textContent`    | Updates visible text inside an element            |
 | `:hover`          | Adds interactivity using CSS hover effects        |
-| `transition`      | Makes style changes smooth and animated           |
+| `transition`      | Creates smooth animated effects for style changes |
 
-```
+---
+
+### 🧱 Tech Stack
+
+| Tool                                                                                      | Purpose                            |
+| ----------------------------------------------------------------------------------------- | ---------------------------------- |
+| ![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) | Structure of the webpage           |
+| ![CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)   | Styling and layout                 |
+| ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)    | Interactivity and dynamic behavior |
+
+---
 
