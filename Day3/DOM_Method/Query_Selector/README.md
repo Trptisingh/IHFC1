@@ -23,38 +23,47 @@ This project demonstrates how to **select and style HTML elements dynamically** 
 ---
 
 ## ⚙️ How It Works
-1. The HTML contains a `div` element with the class `driverSeat`.
+1. The HTML contains a `div` element with the class `.driverSeat`.
 2. JavaScript selects it using:
    ```javascript
    const driverSeat = document.querySelector(".driverSeat");
-The script then:
+````
 
-Increases font size to 30px
+3. The script then:
 
-Changes background color to light blue
+   * Increases font size to **30px**
+   * Changes background color to **light blue**
+   * Updates the text to **"Driver Seat!"**
 
-Updates the text to "Driver Seat!"
+---
 
-▶️ How to Run
-Save all files in the same folder.
+## ▶️ How to Run
 
-Open index.html in a web browser.
+1. Save all files (**index.html**, **style.css**, **script.js**, and **README.md**) in the same folder.
+2. Open `index.html` in your web browser.
+3. (Optional) Open **Inspect → Console** to view debug messages.
 
-Right-click → Inspect → Console (optional to debug).
+---
 
-💡 Expected Output
+## 💡 Expected Output
+
 When you open the page:
 
-The “Driver Seat” box is highlighted in light blue.
+* The “Driver Seat” box is highlighted in **light blue**.
+* Text becomes larger and displays **"Driver Seat!"**
+* On hover, the box **smoothly enlarges** using CSS transitions.
 
-Text becomes larger and says "Driver Seat!"
+---
 
-When you hover, it slightly enlarges smoothly.
+## 🧩 Summary
 
-🧩 Summary
-Concept	Description
-querySelector()	Selects the first element matching a CSS selector
-.style	Allows changing CSS styles from JavaScript
-.textContent	Updates the text inside an element
-:hover	Adds a CSS hover effect with transition
-transition	Makes style changes smooth and animated
+| Concept           | Description                                       |
+| ----------------- | ------------------------------------------------- |
+| `querySelector()` | Selects the first element matching a CSS selector |
+| `.style`          | Changes CSS styles dynamically with JavaScript    |
+| `.textContent`    | Updates visible text inside an element            |
+| `:hover`          | Adds interactivity using CSS hover effects        |
+| `transition`      | Makes style changes smooth and animated           |
+
+```
+
