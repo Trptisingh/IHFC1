@@ -63,4 +63,5 @@ Finish Math Homework
 • Finish Math Homework
 
 
-Would you like me to include a **live demo section** (for GitHub Pages link or screenshot preview)?
+
+
