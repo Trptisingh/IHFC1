@@ -9,10 +9,10 @@ This project demonstrates how to **select and style HTML elements dynamically** 
 
 | File | Description |
 |------|--------------|
-| **index.html** | The main HTML page that links CSS and JavaScript |
-| **style.css** | Contains all the visual styling for the page |
-| **script.js** | JavaScript file that modifies the driver seat element |
-| **README.md** | Explains the project purpose and usage |
+| `index.html` | The main HTML page that links CSS and JavaScript |
+| `style.css` | Contains all the visual styling for the page |
+| `script.js` | JavaScript file that modifies the driver seat element |
+| `README.md` | Explains the project purpose and usage |
 
 ---
 
@@ -45,7 +45,7 @@ This project demonstrates how to **select and style HTML elements dynamically** 
 
 ## ▶️ How to Run
 
-1. Save all files (**index.html**, **style.css**, **script.js**, and **README.md**) in the same folder.
+1. Save all files (`index.html`, `style.css`, `script.js`, and `README.md`) in the same folder.
 2. Open `index.html` in your web browser.
 3. *(Optional)* Open **Inspect → Console** to view debug messages.
 
@@ -55,9 +55,9 @@ This project demonstrates how to **select and style HTML elements dynamically** 
 
 When you open the page:
 
-* The “Driver Seat” box is highlighted in **light blue**.
-* Text becomes larger and displays **"Driver Seat!"**.
-* On hover, the box **smoothly enlarges** with a shadow effect.
+* The “Driver Seat” box is highlighted in **light blue**
+* Text becomes larger and displays **"Driver Seat!"**
+* On hover, the box **smoothly enlarges** with a shadow effect
 
 ---
 
@@ -82,8 +82,3 @@ When you open the page:
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"/>         | **JavaScript** | Interactivity and dynamic behavior |
 
 ---
-
-⭐ **Tip:** Experiment by changing colors, font sizes, or animations to make your version unique!
-
-```
-
