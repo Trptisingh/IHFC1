@@ -1,4 +1,3 @@
-
 # 🚗 Highlight Driver Seat — JavaScript + CSS Example
 
 This project demonstrates how to **select and style HTML elements dynamically** using **JavaScript** and **CSS**.
@@ -56,7 +55,7 @@ This project demonstrates how to **select and style HTML elements dynamically** 
 When you open the page:
 
 * The “Driver Seat” box is highlighted in **light blue**.
-* Text becomes larger and displays **"Driver Seat!"**
+* Text becomes larger and displays **"Driver Seat!"**.
 * On hover, the box **smoothly enlarges** with a shadow effect.
 
 ---
@@ -81,19 +80,3 @@ When you open the page:
 | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40"/>  | **CSS3**       | Styling and layout                 |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"/>         | **JavaScript** | Interactivity and dynamic behavior |
 
----
-
-**Author:** *Your Name*
-**License:** MIT
-
-```
-
----
-
-✅ **This version displays perfectly** on GitHub and Markdown editors —  
-- Lists stay separated  
-- Code blocks render correctly  
-- Tables and images align properly  
-
-Would you like me to add a small **📂 folder structure diagram** (like you had in your WeatherApp) at the top before the “Files” section?
-```
