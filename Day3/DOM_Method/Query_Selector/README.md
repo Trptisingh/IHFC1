@@ -1,3 +1,4 @@
+
 # 🚗 Highlight Driver Seat — JavaScript + CSS Example
 
 This project demonstrates how to **select and style HTML elements dynamically** using **JavaScript** and **CSS**.
@@ -46,7 +47,7 @@ This project demonstrates how to **select and style HTML elements dynamically** 
 
 1. Save all files (**index.html**, **style.css**, **script.js**, and **README.md**) in the same folder.
 2. Open `index.html` in your web browser.
-3. (Optional) Open **Inspect → Console** to view debug messages.
+3. *(Optional)* Open **Inspect → Console** to view debug messages.
 
 ---
 
@@ -79,4 +80,10 @@ When you open the page:
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40"/> | **HTML5**      | Structure of the webpage           |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40"/>  | **CSS3**       | Styling and layout                 |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"/>         | **JavaScript** | Interactivity and dynamic behavior |
+
+---
+
+⭐ **Tip:** Experiment by changing colors, font sizes, or animations to make your version unique!
+
+```
 
