@@ -82,3 +82,18 @@ When you open the page:
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"/>         | **JavaScript** | Interactivity and dynamic behavior |
 
 ---
+
+**Author:** *Your Name*
+**License:** MIT
+
+```
+
+---
+
+✅ **This version displays perfectly** on GitHub and Markdown editors —  
+- Lists stay separated  
+- Code blocks render correctly  
+- Tables and images align properly  
+
+Would you like me to add a small **📂 folder structure diagram** (like you had in your WeatherApp) at the top before the “Files” section?
+```
