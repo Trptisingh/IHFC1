@@ -77,4 +77,5 @@ When the page loads:
 ---
 
 ✨ *A simple project to understand how JavaScript interacts with CSS and HTML elements!*
+---
 
