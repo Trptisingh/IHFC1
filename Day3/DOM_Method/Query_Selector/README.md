@@ -1,3 +1,4 @@
+
 # 🚗 Highlight Driver Seat — JavaScript + CSS Example
 
 This project demonstrates how to **select and style HTML elements dynamically** using **JavaScript** and **CSS**.
@@ -34,7 +35,7 @@ This project demonstrates how to **select and style HTML elements dynamically** 
    const driverSeat = document.querySelector(".driverSeat");
 ````
 
-3. The script then performs the following actions:
+3. The script then:
 
    * Increases font size to **30px**
    * Changes background color to **light blue**
@@ -56,7 +57,7 @@ When you open the page:
 
 * The “Driver Seat” box is highlighted in **light blue**.
 * Text becomes larger and displays **"Driver Seat!"**
-* On hover, the box **smoothly enlarges** using a CSS transition.
+* On hover, the box **smoothly enlarges** with a shadow effect.
 
 ---
 
@@ -68,7 +69,7 @@ When you open the page:
 | `.style`          | Dynamically changes CSS styles via JavaScript     |
 | `.textContent`    | Updates visible text inside an element            |
 | `:hover`          | Adds interactivity using CSS hover effects        |
-| `transition`      | Creates smooth and animated style changes         |
+| `transition`      | Creates smooth animated effects for style changes |
 
 ---
 
@@ -80,3 +81,4 @@ When you open the page:
 | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40"/>  | **CSS3**       | Styling and layout                 |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"/>         | **JavaScript** | Interactivity and dynamic behavior |
 
+---
