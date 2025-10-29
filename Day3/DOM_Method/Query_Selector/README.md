@@ -37,16 +37,16 @@ This project demonstrates how to **select and style HTML elements dynamically** 
 
 3. The script then:
 
-   * Increases font size to **30px**
-   * Changes background color to **light blue**
-   * Updates the text to **"Driver Seat!"**
+   - Increases font size to **30px**  
+   - Changes background color to **light blue**  
+   - Updates the text to **"Driver Seat!"**
 
 ---
 
 ## ▶️ How to Run
 
-1. Save all files (`index.html`, `style.css`, `script.js`, and `README.md`) in the same folder.
-2. Open `index.html` in your web browser.
+1. Save all files (`index.html`, `style.css`, `script.js`, and `README.md`) in the same folder.  
+2. Open `index.html` in your web browser.  
 3. *(Optional)* Open **Inspect → Console** to view debug messages.
 
 ---
@@ -55,30 +55,28 @@ This project demonstrates how to **select and style HTML elements dynamically** 
 
 When you open the page:
 
-* The “Driver Seat” box is highlighted in **light blue**
-* Text becomes larger and displays **"Driver Seat!"**
-* On hover, the box **smoothly enlarges** with a shadow effect
+- The “Driver Seat” box is highlighted in **light blue**.  
+- Text becomes larger and displays **"Driver Seat!"**.  
+- On hover, the box **smoothly enlarges** with a shadow effect.  
 
 ---
 
 ## 🧩 Summary
 
-| Concept           | Description                                       |
-| ----------------- | ------------------------------------------------- |
+| Concept | Description |
+|----------|-------------|
 | `querySelector()` | Selects the first element matching a CSS selector |
-| `.style`          | Dynamically changes CSS styles via JavaScript     |
-| `.textContent`    | Updates visible text inside an element            |
-| `:hover`          | Adds interactivity using CSS hover effects        |
-| `transition`      | Creates smooth animated effects for style changes |
+| `.style` | Dynamically changes CSS styles via JavaScript |
+| `.textContent` | Updates visible text inside an element |
+| `:hover` | Adds interactivity using CSS hover effects |
+| `transition` | Creates smooth animated effects for style changes |
 
 ---
 
 ## 🧱 Tech Stack
 
-| Logo                                                                                                    | Technology     | Purpose                            |
-| ------------------------------------------------------------------------------------------------------- | -------------- | ---------------------------------- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40"/> | **HTML5**      | Structure of the webpage           |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40"/>  | **CSS3**       | Styling and layout                 |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"/>         | **JavaScript** | Interactivity and dynamic behavior |
-
----
+| Logo | Technology | Purpose |
+|------|-------------|----------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40"/> | **HTML5** | Structure of the webpage |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40"/> | **CSS3** | Styling and layout |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"/> | **JavaScript** | Interactivity and dynamic behavior |
